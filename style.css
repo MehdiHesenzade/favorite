@@ -1,0 +1,75 @@
+body{
+   margin:0;
+   padding:0;
+}
+.wrapper{ margin:auto;
+    width:80%;
+
+}
+a{ text-decoration: none;
+
+
+}
+.menu{ list-style:none;
+    float: right; 
+    
+    
+
+}
+.menu-li{ float:left;
+padding: 15px; 
+text-transform: uppercase;
+
+}
+.menu-li a{
+    color:white;
+}
+.logo{
+float: left;
+
+
+}
+hr{ width:60px;
+    border: 1px solid red;
+
+}
+.favorite{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg)
+    
+}
+.favorite-text{ text-align:center;
+    padding: 200px 0;
+
+}
+.favorite-text h1{
+    text-transform: uppercase;
+    color:white;
+    
+}
+.favorite-text p{ color:grey; 
+    padding-bottom: 30px;
+
+}
+.favorite-text .find {
+    background:red;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding:10px 20px;
+}
+.icon{ width: 25%;
+    float:left;
+    padding:50px;
+    text-align:center;
+    box-sizing: border-box;
+
+}
+.icon i{ font-size: 30px;
+    
+}
+.find:hover{ background:rgb(75, 6, 6);
+    color:black;
+
+}
+
+
